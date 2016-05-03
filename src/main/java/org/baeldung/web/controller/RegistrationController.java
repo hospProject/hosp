@@ -40,6 +40,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * 
  * @author MyHong
+ * This is the Controller to Registration
  *
  */
 @Controller
